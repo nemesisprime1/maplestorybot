@@ -1,4 +1,4 @@
-# Join the Discord Server to get started or look at video showcase!
+# Join the Discord Server to get started!
 [Join Here!](https://discord.gg/8NndFGpeYp)
 
 Looking to level up in Maplestory even while away from your PC? Want to reach Odium quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
@@ -12,6 +12,7 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Od
 - **Easy Control**: Manage it via a desktop app or Telegram bot.
 - **Auto Potion**: Automatically replenishes your character's HP or MP when they're running low.
 - **Bounty Hunter**: Enters and clears Polo Portal and Flame Wolf Portals for you.
+- **Panic Mode**: Goes to Town/Auto CC if someone enters your map.
 
 ### Telegram Bot Controls
 - Start/Pause/Stop
@@ -19,6 +20,7 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Od
 - Status Check: Get screenshots of your character.
 - Messaging: Have your character type out messages.
 - Alerts: Notifications for LD and other player's presence.
+- CC: Automatically find the next available CC.
 
 ## 📚 FAQs 📚
 - **Not a AHK bot**
@@ -35,5 +37,5 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Od
 **Q**: Does it work for XYZ Server?  
 **A**: Currently tested servers are: MSEA, GMS, KMS, JMS, YeonHwa, Eluna, Aries
 
-# Join the Discord Server to get started or look at video showcase!
+# Join the Discord Server to get started!
 [Join Here!](https://discord.gg/8NndFGpeYp)
