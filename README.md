@@ -1,3 +1,6 @@
+https://discord.gg/8NndFGpeYp
+Join the discord server to get started!
+
 Looking to level up in Maplestory even while away from your PC? Want to reach Odium quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
 
 ## Features
@@ -24,10 +27,13 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Od
 - **Not a AHK bot**
 
 **Q**: Will the bot get detected?  
-**A**: Absolutely not! Our bot is undetectable to MapleStory's anticheat system, with no lie detectors or spinning runes!
+**A**: Absolutely not! Our bot is undetectable to MapleStory's anticheat system, with no lie detectors or spinning runes, but beware of other players reporting you or GMs stalking you..
+
+**Q**: How does it work?
+**A**: The bot takes screenshots and based on the screenshots, it will press your keyboard for you!
 
 **Q**: What happens when there's a game update?  
-**A**: Sit back and relax. Since our bot doesn't interact with the game files, it won't be affected by game updates.
+**A**: Since our bot doesn't interact with the game files, it won't be affected by game updates.
 
 **Q**: Can I run the bot on more than one PC?  
 **A**: Indeed! You're free to use the bot across multiple PCs, but not simultaneously on different systems. If interested in multi-PC usage at the same time, please highlight this when creating a ticket at get-started. We're here to assist!
@@ -35,3 +41,5 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Od
 **Q**: Does it work for XYZ Server?  
 **A**: Currently tested servers are: MSEA, GMS, KMS, JMS, YeonHwa, Eluna, Aries
 
+https://discord.gg/8NndFGpeYp
+Join the discord server to get started!
