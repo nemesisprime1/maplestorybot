@@ -9,7 +9,7 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Ta
 
 ## Features
 - **Auto Farm**: Farm up to 280+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
-- **Rune Solver**: Handles ALL rune arrow colors.
+- **Rune Solver**: Handles ALL rune arrow colors. Purple/Blue/Red ALL SOLVABLE
 ![Rune Solver](images/rs.png)
 - **Spinning Rune Solver**: Even spinning ones.
 - **Auto Care**: Takes care of pet feeding and potion usage.
@@ -18,6 +18,7 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Ta
 - **Easy Control**: Manage it via a desktop app or Telegram bot.
 - **Auto Potion**: Automatically replenishes your character's HP or MP when they're running low.
 - **Panic Mode**: Goes to Town/Auto CC if someone enters your map.
+- **Editor**: Choose where you want your character to go, and where you want to cast skills.
 
 ### Telegram Bot Controls
 - Start/Pause/Stop
