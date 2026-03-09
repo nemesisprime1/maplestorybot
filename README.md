@@ -10,8 +10,8 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Ta
 ## Features
 - **Auto Farm**: Farm up to 280+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
 - **Rune Solver**: Handles ALL rune arrow colors.
-- **Spinning Rune Solver**: Even spinning ones.
 ![Rune Solver](images/rs.png)
+- **Spinning Rune Solver**: Even spinning ones.
 - **Auto Care**: Takes care of pet feeding and potion usage.
 - **Auto Revive**: Ensures your character stays alive.
 - **Map Versatility**: Works on all maps with customizable bounds.
