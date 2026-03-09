@@ -4,11 +4,13 @@ Join the discord server to get started!
 Looking to level up in Maplestory even while away from your PC? Want to reach Talahart quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
 
 ## Latest Update
-- Len/Ren Supported!
+- Len/Ren + MoXuan Supported
+- Spinning Rune Solver
 
 ## Features
-- **Auto Farm**: Farm up to 270+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
-- **Rune Solver**: Handles ALL rune arrow colors, Purple/Blue/Red ALL SOLVABLE
+- **Auto Farm**: Farm up to 280+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
+- **Rune Solver**: Handles ALL rune arrow colors.
+- **Spinning Rune Solver**: Even spinning ones.
 ![Rune Solver](images/rs.png)
 - **Auto Care**: Takes care of pet feeding and potion usage.
 - **Auto Revive**: Ensures your character stays alive.
@@ -39,7 +41,7 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Ta
 **A**: Indeed! You're free to use the bot across multiple PCs, but not simultaneously on different systems. If interested in multi-PC usage at the same time, please highlight this when creating a ticket at get-started. We're here to assist!
 
 **Q**: Does it work for XYZ Server?  
-**A**: Currently tested servers are: KMS, MSEA, JMS, and should work on all private servers with 5th job update
+**A**: Currently tested servers are: KMS, MSEA, JMS, and should work on all private servers with 5th job update, works with GeForce Now if you play GMS
 
 https://discord.gg/8NndFGpeYp
 Join the discord server to get started!
