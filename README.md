@@ -1,17 +1,22 @@
 https://discord.gg/8NndFGpeYp
 Join the discord server to get started!
 
-Looking to level up in Maplestory even while away from your PC? Want to reach Talahart quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
+Looking to level up in Maplestory even while away from your PC? Want to reach Greadrock quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
 
 ## Latest Update
-- Len/Ren + MoXuan Supported
-- Spinning Rune Solver
+- Len/Ren + MoXuan + Lynn Supported
+- Remaster Classes (Kanna/Hayato/WildHunter/Kinesis)
+- Auto Monster Park
+- Auto Dailies
 
 ## Features
+- **Auto Dailies**: Run daily areas and return to your selected map.
+- **Monster Park**: Enter, clear, exit, and return from Monster Park with improved Arcane/Grandis routing.
 - **Auto Farm**: Farm up to 280+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
 - **Rune Solver**: Handles ALL rune arrow colors. Purple/Blue/Red ALL SOLVABLE
 ![Rune Solver](images/rs.png)
 - **Spinning Rune Solver**: Even spinning ones.
+- **Scheduled Clicker**: Record short click/key routines and replay them on a schedule.
 - **Auto Care**: Takes care of pet feeding and potion usage.
 - **Auto Revive**: Ensures your character stays alive.
 - **Map Versatility**: Works on all maps with customizable bounds.
@@ -28,6 +33,8 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Ta
 - Alerts: Notifications for LD and other player's presence.
 - CC: Automatically find the next available CC.
 - Enable/Disable Consumables: Enable or Disabled consumables to be used on the fly.
+- Auto Dailies: Start daily helper flow remotely.
+- Monster Park: Start Monster Park from town and return to your farming map.
 
 ## 📚 FAQs 📚
 - **Not a AHK bot**
