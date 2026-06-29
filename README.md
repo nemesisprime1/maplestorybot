@@ -1,4 +1,4 @@
-[[https://discord.gg/8NndFGpeYp
+https://discord.gg/8NndFGpeYp
 Join the discord server to get started!
 
 Looking to level up in Maplestory even while away from your PC? Want to reach Greadrock quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
