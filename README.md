@@ -10,6 +10,7 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Gr
 - Auto Dailies
 
 ## Features
+![Features](images/banner.png)
 - **Auto Dailies**: Run daily areas and return to your selected map.
 - **Monster Park**: Enter, clear, exit, and return from Monster Park.
 - **Auto Farm**: Farm up to 280+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
