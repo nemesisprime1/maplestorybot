@@ -1,8 +1,6 @@
 https://discord.gg/8NndFGpeYp
 Join the discord server to get started!
 
-Looking to level up in Maplestory even while away from your PC? Want to reach Greadrock quickly? Dream of racking up mesos without lifting a finger? Aiming for Lvl 300? We've got you covered!
-
 ## Latest Update
 - LD Solver
 - Len/Ren + MoXuan + Lynn Supported
@@ -56,9 +54,6 @@ Looking to level up in Maplestory even while away from your PC? Want to reach Gr
 
 **Q**: Can I run the bot on more than one PC?  
 **A**: Indeed! You're free to use the bot across multiple PCs, but not simultaneously on different systems. If interested in multi-PC usage at the same time, please highlight this when creating a ticket at get-started. We're here to assist!
-
-**Q**: Does it work for XYZ Server?  
-**A**: Currently tested servers are: KMS, MSEA, JMS, and should work on all private servers with 5th job update, works with GeForce Now if you play GMS
 
 https://discord.gg/8NndFGpeYp
 Join the discord server to get started!
