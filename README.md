@@ -2,8 +2,8 @@ https://discord.gg/8NndFGpeYp
 Join the discord server to get started!
 
 ## Latest Update
+- New Classes (Lethe, Sia Astelle, Erel Light) 
 - LD Solver
-- Len/Ren + MoXuan + Lynn Supported
 - Remaster Classes (Kanna/Hayato/WildHunter/Kinesis)
 - Auto Monster Park
 - Auto Dailies
@@ -11,7 +11,7 @@ Join the discord server to get started!
 ## Features
 ![Features](images/banner.png)
 - **Auto Farm**: Farm up to 280+ mobs/min without triggering LD (mob count varies by class and settings). (On default spawn rate)
-- **LD Solver**: Solves Violetta, Captcha, Shape LD (Coming soon) for 24/7 uptime farming
+- **LD Solver**: Solves Violetta, Captcha, Shape LD for 24/7 uptime farming
 - **Auto Dailies**: Run daily areas and return to your selected map.
 - **Monster Park**: Enter, clear, exit, and return from Monster Park.
 - **Rune Solver**: Handles ALL rune arrow colors. Purple/Blue/Red ALL SOLVABLE
